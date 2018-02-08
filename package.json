@@ -1,0 +1,14 @@
+{
+  "name": "unit-testing-mini",
+  "version": "1.0.0",
+  "main": "functions.js",
+  "repository": "https://github.com/bpoole5591/unit-testing-mini.git",
+  "author": "Brian Poole <brianpooledev@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^21.1.0"
+  }
+}
